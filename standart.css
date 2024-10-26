@@ -1,0 +1,33 @@
+h1 {
+	background-color: #000066;
+	color:white;
+	border-radius: 15px;
+	text-align:center;
+
+}
+
+/*
+h1 {
+	Background-color: red;
+	border: 1px solid black;
+	margin:0;
+}
+*/
+
+h2 {
+	background-color: orange;
+	color: white;
+	margin-bottom:0;
+	/* width:100%;*/ 
+	padding: 2px;
+}
+table#pos th {
+	background-color: #CCCCCC;
+	font-weight: 1000;
+	text-align:left;
+}
+table#pos input {
+	width:50px;
+}
+
+
